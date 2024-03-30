@@ -3,12 +3,7 @@ import 'firebase/compat/auth';
 import 'firebase/compat/firestore';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyA5qUVuTTtdMqF_aDWMNvumyoh1DLPBPnQ",
-  authDomain: "ksrm-connect.firebaseapp.com",
-  projectId: "ksrm-connect",
-  storageBucket: "ksrm-connect.appspot.com",
-  messagingSenderId: "927679770510",
-  appId: "1:927679770510:web:b445ca93dce4de82913edf"
+/*Add your own Firebase Configuration*/
 };
 
 if(!firebase.apps.length) {
